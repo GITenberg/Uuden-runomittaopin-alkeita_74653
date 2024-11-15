@@ -1,11 +1,16 @@
 _repo: Uuden-runomittaopin-alkeita_74653
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Helkiö, Onni E.
     gutenberg_agent_id: '57588'
     url: http://www.gutenberg.org/2009/agents/57588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74653#Uuden-runomittaopin-alkeita
 gutenberg_issued: '2024-10-28'
 gutenberg_type: Text
 identifiers:
